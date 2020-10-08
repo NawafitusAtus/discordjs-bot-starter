@@ -1,15 +1,15 @@
 {
-  "name": "discordjs-tutorial-bot",
+  "name": "Birjuink Bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is currently a test bot!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/bot.js",
     "dev": "nodemon ./src/bot.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [bir],
+  "author": "Nawaf-A",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
